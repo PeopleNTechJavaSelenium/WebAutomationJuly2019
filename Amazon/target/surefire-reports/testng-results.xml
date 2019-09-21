@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Amazon Automation Script " duration-ms="17297" started-at="2019-09-21T10:07:54 EDT" finished-at="2019-09-21T10:08:11 EDT">
+    <groups>
+    </groups>
+    <test name="Amazon Home" duration-ms="17297" started-at="2019-09-21T10:07:54 EDT" finished-at="2019-09-21T10:08:11 EDT">
+      <class name="home.TestHome">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:home.TestHome@6cc4c815]" name="setUp" is-config="true" duration-ms="9146" started-at="2019-09-21T10:07:54 EDT" finished-at="2019-09-21T10:08:03 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.amazon.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:home.TestHome@6cc4c815]" name="test1" duration-ms="4444" started-at="2019-09-21T10:08:03 EDT" finished-at="2019-09-21T10:08:08 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:home.TestHome@6cc4c815]" name="cleanUp" is-config="true" duration-ms="3668" started-at="2019-09-21T10:08:08 EDT" finished-at="2019-09-21T10:08:11 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- home.TestHome -->
+    </test> <!-- Amazon Home -->
+  </suite> <!-- Amazon Automation Script  -->
+</testng-results>

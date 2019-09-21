@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="509e19b2-6662-41c9-be65-acbfa400784e" name="Default Changelist" comment="" />
+    <list default="true" id="509e19b2-6662-41c9-be65-acbfa400784e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Amazon/src/main/java/menu/DataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/src/main/java/menu/MenuPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/src/main/java/menu/SearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/src/test/java/search/SearchItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/browser-driver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/browser-driver/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/browser-driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/browser-driver/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/browser-driver/geckodriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/home/TestHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/home/TestHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/home/TestHome.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/home/TestHome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cnn/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/src/test/resources/CnnTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cnn/src/test/resources/CnnTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/test-classes/CnnTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cnn/target/test-classes/CnnTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/test-classes/home/TestNews.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cnn/target/test-classes/home/TestNews.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/common/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/common/CommonAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="26" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -15,6 +42,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,14 +52,23 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
   <component name="ProjectId" id="1QsZ0LfCr5awtGfkqg4MfE3u62p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Generic/browser-driver" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic/browser-driver" />
+      <recent name="$PROJECT_DIR$/Generic" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Amazon/src/test" />
       <recent name="$PROJECT_DIR$/Cnn/src/test" />
@@ -47,7 +86,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestNews">
+  <component name="RunManager" selected="TestNG./Users/peoplentech/IdeaProjects/WebAutomationFramework/Amazon/src/test/resources/AmazonTestRunner.xml">
     <configuration name="TestHome.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Amazon" />
       <extension name="coverage">
@@ -115,9 +154,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestNews" />
-        <item itemvalue="TestNG./Users/peoplentech/IdeaProjects/WebAutomationFramework/Cnn/src/test/resources/CnnTestRunner.xml" />
         <item itemvalue="TestNG./Users/peoplentech/IdeaProjects/WebAutomationFramework/Amazon/src/test/resources/AmazonTestRunner.xml" />
+        <item itemvalue="TestNG./Users/peoplentech/IdeaProjects/WebAutomationFramework/Cnn/src/test/resources/CnnTestRunner.xml" />
+        <item itemvalue="TestNG.TestNews" />
         <item itemvalue="TestNG.TestHome.test1" />
         <item itemvalue="TestNG.&lt;default&gt; (1)" />
       </list>
@@ -136,25 +175,53 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Cnn/src/test/java/home/TestNews.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java</url>
+          <line>402</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="3" />
+          <line>39</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="4" />
+          <line>60</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WebAutomationFramework$TestNews.ic" NAME="TestNews Coverage Results" MODIFIED="1569077174053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>home.*</FILTER>
+    </SUITE>
   </component>
 </project>
