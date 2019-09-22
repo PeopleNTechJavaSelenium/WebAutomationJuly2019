@@ -19,6 +19,9 @@ public class SearchPage extends CommonAPI {
     @FindBy(how = How.CSS, using =".nav-input")
     public static WebElement submitButtonWebElement;
 
+    @FindBy(how = How.CSS, using =".nav-input")
+    public static WebElement searchButtonWebElement;
+
     public WebElement getSearchInputWebElement() {
         return searchInputWebElement;
     }
