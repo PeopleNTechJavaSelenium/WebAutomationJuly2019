@@ -23,3 +23,11 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+Amazon/target/generated-sources/
+Amazon/target/generated-test-sources/
+Cnn/src/main/
+Cnn/target/generated-test-sources/
+Generic/src/main/java/reporting/
+Generic/src/main/resources/
+Generic/src/test/
+Generic/target/generated-sources/
