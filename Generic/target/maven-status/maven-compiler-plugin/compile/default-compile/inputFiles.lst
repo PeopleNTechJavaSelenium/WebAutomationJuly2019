@@ -1,6 +1,6 @@
-/Users/mrahman/develop/pnt/WebAutomationJuly2019/Generic/src/main/java/databases/Student.java
-/Users/mrahman/develop/pnt/WebAutomationJuly2019/Generic/src/main/java/common/CommonAPI.java
-/Users/mrahman/develop/pnt/WebAutomationJuly2019/Generic/src/main/java/databases/ConnectToMongoDB.java
-/Users/mrahman/develop/pnt/WebAutomationJuly2019/Generic/src/main/java/databases/User.java
-/Users/mrahman/develop/pnt/WebAutomationJuly2019/Generic/src/main/java/utility/DataReader.java
-/Users/mrahman/develop/pnt/WebAutomationJuly2019/Generic/src/main/java/databases/ConnectToSqlDB.java
+/Users/peoplentech/IdeaProjects/WebAutomationFramework/Generic/src/main/java/utility/DataReader.java
+/Users/peoplentech/IdeaProjects/WebAutomationFramework/Generic/src/main/java/databases/User.java
+/Users/peoplentech/IdeaProjects/WebAutomationFramework/Generic/src/main/java/databases/ConnectToMongoDB.java
+/Users/peoplentech/IdeaProjects/WebAutomationFramework/Generic/src/main/java/databases/ConnectToSqlDB.java
+/Users/peoplentech/IdeaProjects/WebAutomationFramework/Generic/src/main/java/common/CommonAPI.java
+/Users/peoplentech/IdeaProjects/WebAutomationFramework/Generic/src/main/java/databases/Student.java
