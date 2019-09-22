@@ -54,7 +54,7 @@ public class CommonAPI {
     public WebDriver getLocalDriver(@Optional("mac") String OS, String browserName){
         if(browserName.equalsIgnoreCase("chrome")){
             if(OS.equalsIgnoreCase("OS X")){
-                System.setProperty("webdriver.chrome.driver", "/Users/mrahman/develop/pnt/WebAutomationJuly2019/Generic/browser-driver/chromedriver");
+                System.setProperty("webdriver.chrome.driver", "/Users/peoplentech/IdeaProjects/WebAutomationFramework/Generic/browser-driver/chromedriver");
             }else if(OS.equalsIgnoreCase("Windows")){
                 System.setProperty("webdriver.chrome.driver", "../Generic/browser-driver/chromedriver.exe");
             }
@@ -72,7 +72,7 @@ public class CommonAPI {
 
         else if(browserName.equalsIgnoreCase("firefox")){
             if(OS.equalsIgnoreCase("OS X")){
-                System.setProperty("webdriver.gecko.driver", "/Users/mrahman/develop/pnt/WebAutomationJuly2019/Generic/browser-driver/geckodriver");
+                System.setProperty("webdriver.gecko.driver", "/Users/peoplentech/IdeaProjects/WebAutomationFramework/Generic/browser-driver/geckodriver");
             }else if(OS.equalsIgnoreCase("Windows")) {
                 System.setProperty("webdriver.gecko.driver", "../Generic/browser-driver/geckodriver.exe");
             }

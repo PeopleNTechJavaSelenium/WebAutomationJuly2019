@@ -11,8 +11,5 @@
         <module name="Cnn" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="BadCough" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
