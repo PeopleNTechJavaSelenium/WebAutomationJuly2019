@@ -36,7 +36,7 @@ public class SearchPage extends CommonAPI {
         getSearchInputWebElement().clear();
     }
     public void searchItemsAndSubmitButton()throws Exception, IOException, SQLException, ClassNotFoundException{
-        List<String> list = DataSource.getItemValue();
+        List<String> list = DataSource.getItemsListFromDB();
         for(int i=0; i<list.size(); i++) {
             searchFor(list.get(i));
             submitSearchButton();
