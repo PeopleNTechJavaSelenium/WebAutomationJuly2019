@@ -6,6 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
+import reporting.TestLogger;
 
 import java.io.IOException;
 import java.sql.SQLException;
@@ -23,23 +24,29 @@ public class SearchPage extends CommonAPI {
     public static WebElement searchButtonUpcomingWebElement;
 
     public WebElement getSearchInputWebElement() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         return searchInputWebElement;
     }
     public WebElement getSubmitButtonWebElement() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         return submitButtonWebElement;
     }
 
     public void searchFor(String value){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName())+ " "+ value);
         getSearchInputWebElement().sendKeys(value);
     }
     public void submitSearchButton(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         getSubmitButtonWebElement().click();
     }
     public void clearInput(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         getSearchInputWebElement().clear();
     }
     public void searchItemsAndSubmitButton()throws Exception, IOException, SQLException, ClassNotFoundException{
-        List<String> list = DataSource.getItemsListFromDB();
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        List<String> list = DataSource.getItemValue();
         for(int i=0; i<list.size(); i++) {
             searchFor(list.get(i));
             submitSearchButton();
@@ -48,6 +55,7 @@ public class SearchPage extends CommonAPI {
     }
 
     public void searchItemsAndSubmitButton(WebDriver driver1)throws Exception, IOException, SQLException, ClassNotFoundException{
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         List<String> list = DataSource.getItemValue();
         for(int i=0; i<list.size(); i++) {
             searchFor(list.get(i));
@@ -76,6 +84,7 @@ public class SearchPage extends CommonAPI {
     }
 
     public void searchItems()throws Exception, IOException, SQLException, ClassNotFoundException {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         List<String> itemList = DataSource.getItemValue();
         for(String st: itemList) {
             getSearchInputField().sendKeys(st, Keys.ENTER);

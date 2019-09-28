@@ -2,18 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="509e19b2-6662-41c9-be65-acbfa400784e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/W3Schools/W3Schools.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W3Schools/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W3Schools/src/main/java/table/page/TablePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W3Schools/src/test/java/table/TableData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W3Schools/src/test/resources/W3SchoolsTestRunner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/menu/SearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/menu/SearchPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/dropdown/TestDropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/dropdown/TestDropDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/home/TestHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/home/TestHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/search/SearchItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/search/SearchItems.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Amazon/target/classes/menu/SearchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/classes/menu/SearchPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon Automation Script /Amazon Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon Automation Script /Amazon Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon Automation Script /Amazon Home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon Automation Script /Amazon Home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script /classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script /classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script /methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script /methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script /methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script /methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script /testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script /testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/dropdown/TestDropDown.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/dropdown/TestDropDown.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/home/TestHome.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/home/TestHome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/search/SearchItems.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/search/SearchItems.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/surefire-reports/CNN Automation Script /Cnn Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cnn/target/surefire-reports/CNN Automation Script /Cnn Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/surefire-reports/CNN Automation Script /Cnn Home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cnn/target/surefire-reports/CNN Automation Script /Cnn Home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cnn/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Cnn/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cnn/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cnn/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/surefire-reports/junitreports/TEST-home.TestNews.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cnn/target/surefire-reports/junitreports/TEST-home.TestNews.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/surefire-reports/old/CNN Automation Script /methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cnn/target/surefire-reports/old/CNN Automation Script /methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/surefire-reports/old/CNN Automation Script /methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cnn/target/surefire-reports/old/CNN Automation Script /methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/surefire-reports/old/CNN Automation Script /testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cnn/target/surefire-reports/old/CNN Automation Script /testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cnn/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/target/classes/common/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/common/CommonAPI.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToMongoDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToMongoDB.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToSqlDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToSqlDB.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/Student.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/User.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/target/classes/utility/DataReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/utility/DataReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,26 +86,28 @@
   <component name="ProjectId" id="1QsZ0LfCr5awtGfkqg4MfE3u62p" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Generic" />
-      <recent name="$PROJECT_DIR$/Generic/src/main/java" />
-      <recent name="$PROJECT_DIR$/Generic/browser-driver" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/W3Schools/src/test" />
+      <recent name="$PROJECT_DIR$/Amazon/src/test" />
+      <recent name="$PROJECT_DIR$/Cnn/src/test" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="dropdownmenu" />
       <recent name="dropdown" />
       <recent name="utility" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Amazon/src/test" />
-      <recent name="$PROJECT_DIR$/Cnn/src/test" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic" />
+      <recent name="$PROJECT_DIR$/Generic/src/main/java" />
+      <recent name="$PROJECT_DIR$/Generic/browser-driver" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -82,26 +123,6 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG./Users/peoplentech/IdeaProjects/WebAutomationFramework/Amazon/src/test/resources/AmazonTestRunner.xml (1)">
-    <configuration name="TestHome.test1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Amazon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="home.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="home" />
-      <option name="MAIN_CLASS_NAME" value="home.TestHome" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestNews" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Cnn" />
       <extension name="coverage">
@@ -155,20 +176,56 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="/Users/peoplentech/IdeaProjects/WebAutomationFramework/W3Schools/src/test/resources/W3SchoolsTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="W3Schools" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/W3Schools/src/test/resources/W3SchoolsTestRunner.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="TestNG./Users/peoplentech/IdeaProjects/WebAutomationFramework/Amazon/src/test/resources/AmazonTestRunner.xml" />
       <item itemvalue="TestNG./Users/peoplentech/IdeaProjects/WebAutomationFramework/Cnn/src/test/resources/CnnTestRunner.xml" />
-      <item itemvalue="TestNG.TestHome.test1" />
       <item itemvalue="TestNG.TestNews" />
       <item itemvalue="TestNG./Users/peoplentech/IdeaProjects/WebAutomationFramework/Amazon/src/test/resources/AmazonTestRunner.xml (1)" />
+      <item itemvalue="TestNG./Users/peoplentech/IdeaProjects/WebAutomationFramework/W3Schools/src/test/resources/W3SchoolsTestRunner.xml" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG./Users/peoplentech/IdeaProjects/WebAutomationFramework/Amazon/src/test/resources/AmazonTestRunner.xml (1)" />
+        <item itemvalue="TestNG./Users/peoplentech/IdeaProjects/WebAutomationFramework/W3Schools/src/test/resources/W3SchoolsTestRunner.xml" />
         <item itemvalue="TestNG./Users/peoplentech/IdeaProjects/WebAutomationFramework/Amazon/src/test/resources/AmazonTestRunner.xml" />
         <item itemvalue="TestNG./Users/peoplentech/IdeaProjects/WebAutomationFramework/Cnn/src/test/resources/CnnTestRunner.xml" />
         <item itemvalue="TestNG.TestNews" />
-        <item itemvalue="TestNG.TestHome.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -213,33 +270,33 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java</url>
-          <line>402</line>
+          <line>465</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java</url>
-          <line>105</line>
+          <line>168</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Amazon/src/test/java/search/SearchItems.java</url>
-          <line>15</line>
+          <line>17</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Amazon/src/main/java/menu/SearchPage.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Amazon/src/test/java/dropdown/TestDropDown.java</url>
-          <line>9</line>
+          <line>11</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java</url>
-          <line>326</line>
+          <line>389</line>
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Amazon/src/main/java/menu/SearchPage.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -13,8 +13,8 @@
 
     <test name = "Amazon Home">
         <classes>
-<!--            <class name="home.TestHome"/>-->
-<!--            <class name="search.SearchItems"/>-->
+            <class name="home.TestHome"/>
+            <class name="search.SearchItems"/>
             <class name="dropdown.TestDropDown"></class>
         </classes>
     </test>
