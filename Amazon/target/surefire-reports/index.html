@@ -102,7 +102,7 @@
                     <div class="method-list-content passed suite-Amazon_Automation_Script_">
                       <span>
                         <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Amazon_Automation_Script_" title="home.TestHome" hash-for-method="test1">test1</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-Amazon_Automation_Script_" title="dropdown.TestDropDown" hash-for-method="dropDownData">dropDownData</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-Amazon_Automation_Script_ -->
@@ -120,14 +120,14 @@
           <div class="suite-Amazon_Automation_Script_-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
-              <span class="class-name">home.TestHome</span>
+              <span class="class-name">dropdown.TestDropDown</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="test1">
-                  </a> <!-- test1 -->
-                  <span class="method-name">test1</span>
+                  <a name="dropDownData">
+                  </a> <!-- dropDownData -->
+                  <span class="method-name">dropDownData</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -142,10 +142,16 @@
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
 &lt;suite guice-stage=&quot;DEVELOPMENT&quot; verbose=&quot;0&quot; name=&quot;Amazon Automation Script &quot;&gt;
+  &lt;parameter name=&quot;useCloudEnv&quot; value=&quot;false&quot;/&gt;
+  &lt;parameter name=&quot;os&quot; value=&quot;OS X&quot;/&gt;
+  &lt;parameter name=&quot;os_version&quot; value=&quot;Sierra&quot;/&gt;
+  &lt;parameter name=&quot;browserVersion&quot; value=&quot;60.0&quot;/&gt;
+  &lt;parameter name=&quot;browserName&quot; value=&quot;firefox&quot;/&gt;
+  &lt;parameter name=&quot;cloudEnvName&quot; value=&quot;browserstack&quot;/&gt;
   &lt;parameter name=&quot;url&quot; value=&quot;https://www.amazon.com&quot;/&gt;
   &lt;test thread-count=&quot;5&quot; verbose=&quot;0&quot; name=&quot;Amazon Home&quot;&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;home.TestHome&quot;/&gt;
+      &lt;class name=&quot;dropdown.TestDropDown&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Amazon Home --&gt;
 &lt;/suite&gt; &lt;!-- Amazon Automation Script  --&gt;
@@ -187,14 +193,14 @@ data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
 data.addRows(1);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'test1')
-data.setCell(0, 2, 'home.TestHome')
-data.setCell(0, 3, 4444);
+data.setCell(0, 1, 'dropDownData')
+data.setCell(0, 2, 'dropdown.TestDropDown')
+data.setCell(0, 3, 6597);
 window.suiteTableData['Amazon_Automation_Script_']= { tableData: data, tableDiv: 'times-div-Amazon_Automation_Script_'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 4 seconds</span>
+              <span class="suite-total-time">Total running time: 6 seconds</span>
               <div id="times-div-Amazon_Automation_Script_">
               </div> <!-- times-div-Amazon_Automation_Script_ -->
             </div> <!-- times-div -->
@@ -220,18 +226,18 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">home.TestHome</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">dropdown.TestDropDown</div> <!-- chronological-class-name -->
               <div class="configuration-method before">
-                <span class="method-name">setUp(https://www.amazon.com)</span>
+                <span class="method-name">setUp(false, browserstack, OS X, Sierra, firefox, 60.0, https://www.amazon.com)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
-                <span class="method-name">test1</span>
-                <span class="method-start">9147 ms</span>
+                <span class="method-name">dropDownData</span>
+                <span class="method-start">23467 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">cleanUp</span>
-                <span class="method-start">13592 ms</span>
+                <span class="method-start">30066 ms</span>
               </div> <!-- configuration-method after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
