@@ -1,6 +1,6 @@
 package keyword;
 
-import base.CommonAPI;
+import common.CommonAPI;
 import utility.DataReader;
 
 import java.io.IOException;
@@ -14,7 +14,7 @@ public class ItemsToBeSearched extends CommonAPI {
     }
 
     public String[] getDataFromExcelFileForFeaturesChoice() throws IOException{
-        String path = System.getProperty("user.dir")+"/data/file2.xls";
+        String path = System.getProperty("user.dir")+"/Pnt/data/file2.xls";
         String [] data = dr.fileReader2(path,0);
         return data;
     }

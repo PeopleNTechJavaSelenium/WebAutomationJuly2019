@@ -135,7 +135,7 @@ public class CommonAPI {
 
         else if(browserName.equalsIgnoreCase("firefox")){
             if(OS.equalsIgnoreCase("OS X")){
-                System.setProperty("webdriver.gecko.driver", "/Users/peoplentech/IdeaProjects/WebAutomationFramework/Generic/browser-driver/geckodriver");
+                System.setProperty("webdriver.gecko.driver", "/Users/mrahman/develop/pnt/WebAutomationJuly2019/Generic/browser-driver/geckodriver");
             }else if(OS.equalsIgnoreCase("Windows")) {
                 System.setProperty("webdriver.gecko.driver", "../Generic/browser-driver/geckodriver.exe");
             }

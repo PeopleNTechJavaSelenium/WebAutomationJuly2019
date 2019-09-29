@@ -2,9 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="509e19b2-6662-41c9-be65-acbfa400784e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Pnt/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3Schools/W3Schools.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Cnn/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pnt/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Pnt/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pnt/src/main/java/authentication/LogInPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pnt/src/main/java/authentication/LogInPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pnt/src/main/java/authentication/popup/HandlePopUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pnt/src/main/java/authentication/popup/HandlePopUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pnt/src/main/java/keyword/Features.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pnt/src/main/java/keyword/Features.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pnt/src/main/java/keyword/ItemsToBeSearched.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pnt/src/main/java/keyword/ItemsToBeSearched.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pnt/src/test/java/authentication/TestAuthentication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pnt/src/test/java/authentication/TestAuthentication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pnt/src/test/java/authentication/TestKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pnt/src/test/java/authentication/TestKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pnt/src/test/java/authentication/TestPopUpWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pnt/src/test/java/authentication/TestPopUpWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pnt/src/test/resources/PntTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Pnt/src/test/resources/PntTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W3Schools/target/W3Schools-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/W3Schools/target/W3Schools-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W3Schools/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/W3Schools/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W3Schools/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/W3Schools/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Cnn/target/" />
     <ignored path="$PROJECT_DIR$/W3Schools/target/" />
@@ -24,23 +44,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ConnectToSqlDB.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pnt/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="296">
+              <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchItems.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/search/SearchItems.java">
+      <file leaf-file-name="PntTestRunner.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pnt/src/test/resources/PntTestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="92">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="16" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -48,35 +65,21 @@
       <file leaf-file-name="CommonAPI.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2508">
-              <caret line="132" column="47" selection-start-line="132" selection-start-column="47" selection-end-line="132" selection-end-column="47" />
+            <state relative-caret-position="92">
+              <caret line="136" selection-start-line="136" selection-end-line="136" />
+              <folding>
+                <element signature="e#3077#3078#0" expanded="true" />
+                <element signature="e#3107#3108#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConfigInvoker.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0/testng-7.0.0.jar!/org/testng/internal/ConfigInvoker.class">
+      <file leaf-file-name="LogInPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pnt/src/main/java/authentication/LogInPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4503">
-              <caret line="270" selection-start-line="270" selection-end-line="270" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SearchPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/menu/SearchPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="817">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataSource.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/menu/DataSource.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="149">
+              <caret line="86" selection-start-line="86" selection-end-line="86" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,11 +87,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Pnt/pom.xml">
+      <file leaf-file-name="Features.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pnt/src/main/java/keyword/Features.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+            <state relative-caret-position="-160">
+              <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,8 +102,8 @@
       <file leaf-file-name="DataReader.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="23" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="23" />
+            <state relative-caret-position="92">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,11 +111,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <file leaf-file-name="ItemsToBeSearched.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Pnt/src/main/java/keyword/ItemsToBeSearched.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+            <state relative-caret-position="91">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestAuthentication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pnt/src/test/java/authentication/TestAuthentication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestKeyword.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pnt/src/test/java/authentication/TestKeyword.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -117,7 +147,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="893">
+            <state relative-caret-position="258">
               <caret line="69" column="25" selection-start-line="68" selection-start-column="28" selection-end-line="69" selection-end-column="25" />
             </state>
           </provider>
@@ -138,7 +168,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Pnt/src/main/java/authentication/LogInPage.java" />
+        <option value="$PROJECT_DIR$/Pnt/src/main/java/authentication/popup/HandlePopUp.java" />
+        <option value="$PROJECT_DIR$/Pnt/src/main/java/keyword/ItemsToBeSearched.java" />
+        <option value="$PROJECT_DIR$/Pnt/src/test/java/authentication/TestPopUpWindow.java" />
+        <option value="$PROJECT_DIR$/Pnt/src/test/java/authentication/TestAuthentication.java" />
+        <option value="$PROJECT_DIR$/Pnt/src/test/java/authentication/TestKeyword.java" />
+        <option value="$PROJECT_DIR$/Pnt/src/main/java/keyword/Features.java" />
         <option value="$PROJECT_DIR$/Pnt/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/Pnt/src/test/resources/PntTestRunner.xml" />
       </list>
     </option>
   </component>
@@ -168,7 +207,8 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="113" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="816" />
@@ -191,13 +231,45 @@
             <path>
               <item name="WebAutomationJuly2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebAutomationJuly2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationJuly2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationJuly2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="browser-driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationJuly2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationJuly2019" type="462c0819:PsiDirectoryNode" />
               <item name="Pnt" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebAutomationJuly2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebAutomationJuly2019" type="462c0819:PsiDirectoryNode" />
               <item name="Pnt" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationJuly2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationJuly2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Pnt" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationJuly2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationJuly2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Pnt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationJuly2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationJuly2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Pnt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -213,23 +285,24 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/W3Schools/src/test" />
-      <recent name="$PROJECT_DIR$/Amazon/src/test" />
-      <recent name="$PROJECT_DIR$/Cnn/src/test" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Pnt/src/test" />
+      <recent name="$PROJECT_DIR$/Generic" />
+      <recent name="$PROJECT_DIR$/Generic/src/main/java" />
+      <recent name="$PROJECT_DIR$/Generic/browser-driver" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="dropdownmenu" />
       <recent name="dropdown" />
       <recent name="utility" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Generic" />
-      <recent name="$PROJECT_DIR$/Generic/src/main/java" />
-      <recent name="$PROJECT_DIR$/Generic/browser-driver" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/W3Schools/src/test" />
+      <recent name="$PROJECT_DIR$/Amazon/src/test" />
+      <recent name="$PROJECT_DIR$/Cnn/src/test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -244,33 +317,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG./Users/peoplentech/IdeaProjects/WebAutomationFramework/Amazon/src/test/resources/AmazonTestRunner.xml (1)">
-    <configuration name="TestNews" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Cnn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="home.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="TestNG./Users/mrahman/develop/pnt/WebAutomationJuly2019/Pnt/src/test/resources/PntTestRunner.xml">
+    <configuration name="/Users/mrahman/develop/pnt/WebAutomationJuly2019/Pnt/src/test/resources/PntTestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Pnt" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="home" />
-      <option name="MAIN_CLASS_NAME" value="home.TestNews" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Pnt/src/test/resources/PntTestRunner.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" value="" />
       <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
+      <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" value="" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
+        <value defaultName="moduleWithDependencies" />
       </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
     </configuration>
@@ -394,17 +461,17 @@
     <list>
       <item itemvalue="TestNG./Users/peoplentech/IdeaProjects/WebAutomationFramework/Amazon/src/test/resources/AmazonTestRunner.xml" />
       <item itemvalue="TestNG./Users/peoplentech/IdeaProjects/WebAutomationFramework/Cnn/src/test/resources/CnnTestRunner.xml" />
-      <item itemvalue="TestNG.TestNews" />
       <item itemvalue="TestNG./Users/peoplentech/IdeaProjects/WebAutomationFramework/Amazon/src/test/resources/AmazonTestRunner.xml (1)" />
       <item itemvalue="TestNG./Users/peoplentech/IdeaProjects/WebAutomationFramework/W3Schools/src/test/resources/W3SchoolsTestRunner.xml" />
+      <item itemvalue="TestNG./Users/mrahman/develop/pnt/WebAutomationJuly2019/Pnt/src/test/resources/PntTestRunner.xml" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/mrahman/develop/pnt/WebAutomationJuly2019/Pnt/src/test/resources/PntTestRunner.xml" />
         <item itemvalue="TestNG./Users/peoplentech/IdeaProjects/WebAutomationFramework/Amazon/src/test/resources/AmazonTestRunner.xml (1)" />
         <item itemvalue="TestNG./Users/peoplentech/IdeaProjects/WebAutomationFramework/W3Schools/src/test/resources/W3SchoolsTestRunner.xml" />
         <item itemvalue="TestNG./Users/peoplentech/IdeaProjects/WebAutomationFramework/Amazon/src/test/resources/AmazonTestRunner.xml" />
         <item itemvalue="TestNG./Users/peoplentech/IdeaProjects/WebAutomationFramework/Cnn/src/test/resources/CnnTestRunner.xml" />
-        <item itemvalue="TestNG.TestNews" />
       </list>
     </recent_temporary>
   </component>
@@ -431,36 +498,81 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="_Users_mrahman_develop_pnt_WebAutomationJuly2019_Pnt_src_test_resources_PntTestRunner_xml - 2019.09.29 at 11h 11m 08s.xml">
+      <configuration name="/Users/mrahman/develop/pnt/WebAutomationJuly2019/Pnt/src/test/resources/PntTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_mrahman_develop_pnt_WebAutomationJuly2019_Pnt_src_test_resources_PntTestRunner_xml - 2019.09.29 at 11h 12m 09s.xml">
+      <configuration name="/Users/mrahman/develop/pnt/WebAutomationJuly2019/Pnt/src/test/resources/PntTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_mrahman_develop_pnt_WebAutomationJuly2019_Pnt_src_test_resources_PntTestRunner_xml - 2019.09.29 at 11h 12m 44s.xml">
+      <configuration name="/Users/mrahman/develop/pnt/WebAutomationJuly2019/Pnt/src/test/resources/PntTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_mrahman_develop_pnt_WebAutomationJuly2019_Pnt_src_test_resources_PntTestRunner_xml - 2019.09.29 at 11h 13m 19s.xml">
+      <configuration name="/Users/mrahman/develop/pnt/WebAutomationJuly2019/Pnt/src/test/resources/PntTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_mrahman_develop_pnt_WebAutomationJuly2019_Pnt_src_test_resources_PntTestRunner_xml - 2019.09.29 at 11h 13m 34s.xml">
+      <configuration name="/Users/mrahman/develop/pnt/WebAutomationJuly2019/Pnt/src/test/resources/PntTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_mrahman_develop_pnt_WebAutomationJuly2019_Pnt_src_test_resources_PntTestRunner_xml - 2019.09.29 at 11h 14m 58s.xml">
+      <configuration name="/Users/mrahman/develop/pnt/WebAutomationJuly2019/Pnt/src/test/resources/PntTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_mrahman_develop_pnt_WebAutomationJuly2019_Pnt_src_test_resources_PntTestRunner_xml - 2019.09.29 at 11h 15m 56s.xml">
+      <configuration name="/Users/mrahman/develop/pnt/WebAutomationJuly2019/Pnt/src/test/resources/PntTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_mrahman_develop_pnt_WebAutomationJuly2019_Pnt_src_test_resources_PntTestRunner_xml - 2019.09.29 at 11h 17m 22s.xml">
+      <configuration name="/Users/mrahman/develop/pnt/WebAutomationJuly2019/Pnt/src/test/resources/PntTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="816" extended-state="1" />
+    <frame x="113" y="23" width="1440" height="816" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32884097" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.11180556" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.15555556" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32884097" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32884097" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32884097" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24444444" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14583333" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.17654987" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.5579515" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info id="Designer" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32884097" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.17654987" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32884097" />
+      <window_info anchor="right" id="Maven Projects" order="4" visible="true" weight="0.11180556" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24444444" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -521,7 +633,26 @@
           <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java</url>
+          <line>498</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Pnt/src/main/java/authentication/LogInPage.java</url>
+          <line>86</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Pnt/src/main/java/keyword/ItemsToBeSearched.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
@@ -530,30 +661,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/search/SearchItems.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="69" column="47" lean-forward="true" selection-start-line="69" selection-start-column="47" selection-end-line="69" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0/testng-7.0.0.jar!/org/testng/internal/ConfigInvoker.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4503">
@@ -630,6 +737,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -664,6 +774,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="912">
           <caret line="69" column="47" selection-start-line="69" selection-start-column="47" selection-end-line="69" selection-end-column="47" />
+          <folding>
+            <element signature="e#3077#3078#0" expanded="true" />
+            <element signature="e#3107#3108#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -760,6 +874,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -790,13 +907,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2508">
-          <caret line="132" column="47" selection-start-line="132" selection-start-column="47" selection-end-line="132" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/search/SearchItems.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -814,34 +924,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
           <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
-          <caret line="69" column="25" selection-start-line="68" selection-start-column="28" selection-end-line="69" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0/testng-7.0.0.jar!/org/testng/internal/ConfigInvoker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4503">
-          <caret line="270" selection-start-line="270" selection-end-line="270" />
         </state>
       </provider>
     </entry>
@@ -862,12 +948,190 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pnt/pom.xml">
+    <entry file="file://$PROJECT_DIR$/Pnt/src/main/java/authentication/popup/HandlePopUp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Pnt/src/test/java/authentication/TestPopUpWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pnt/src/test/java/authentication/TestKeyword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pnt/src/main/java/keyword/Features.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-160">
+          <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="69" column="25" selection-start-line="68" selection-start-column="28" selection-end-line="69" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pnt/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0/testng-7.0.0.jar!/org/testng/internal/ConfigInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="259" selection-start-line="259" selection-end-line="259" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pnt/src/test/java/authentication/TestAuthentication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pnt/src/main/java/authentication/LogInPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pnt/src/test/resources/PntTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="16" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="136" selection-start-line="136" selection-end-line="136" />
+          <folding>
+            <element signature="e#3077#3078#0" expanded="true" />
+            <element signature="e#3107#3108#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pnt/src/main/java/keyword/ItemsToBeSearched.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web-Automation-Framework</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.aventstack:extentreports:3.0.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
