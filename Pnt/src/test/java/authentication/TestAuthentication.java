@@ -1,6 +1,6 @@
 package authentication;
 
-import base.CommonAPI;
+import common.CommonAPI;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
 
