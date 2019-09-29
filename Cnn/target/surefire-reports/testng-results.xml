@@ -2,14 +2,44 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="CNN Automation Script " duration-ms="42363" started-at="2019-09-21T10:08:13 EDT" finished-at="2019-09-21T10:08:55 EDT">
+  <suite name="CNN Automation Script " duration-ms="184093" started-at="2019-09-28T12:33:54 EDT" finished-at="2019-09-28T12:36:58 EDT">
     <groups>
     </groups>
-    <test name="Cnn Home" duration-ms="42363" started-at="2019-09-21T10:08:13 EDT" finished-at="2019-09-21T10:08:55 EDT">
+    <test name="Cnn Home" duration-ms="184093" started-at="2019-09-28T12:33:54 EDT" finished-at="2019-09-28T12:36:58 EDT">
       <class name="home.TestNews">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:home.TestNews@6cc4c815]" name="setUp" is-config="true" duration-ms="33396" started-at="2019-09-21T10:08:13 EDT" finished-at="2019-09-21T10:08:46 EDT">
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:home.TestNews@4f933fd1]" name="setUp" is-config="true" duration-ms="157329" started-at="2019-09-28T12:33:54 EDT" finished-at="2019-09-28T12:36:31 EDT">
           <params>
             <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[browserstack]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[OS X]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sierra]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[60.0]]>
+              </value>
+            </param>
+            <param index="6">
               <value>
                 <![CDATA[https://www.cnn.com]]>
               </value>
@@ -18,11 +48,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:home.TestNews@6cc4c815]" name="test1" duration-ms="5192" started-at="2019-09-21T10:08:46 EDT" finished-at="2019-09-21T10:08:51 EDT">
+        <test-method status="PASS" signature="test1()[pri:0, instance:home.TestNews@4f933fd1]" name="test1" duration-ms="23717" started-at="2019-09-28T12:36:31 EDT" finished-at="2019-09-28T12:36:55 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="cleanUp()[pri:0, instance:home.TestNews@6cc4c815]" name="cleanUp" is-config="true" duration-ms="3739" started-at="2019-09-21T10:08:51 EDT" finished-at="2019-09-21T10:08:55 EDT">
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:home.TestNews@4f933fd1]" name="cleanUp" is-config="true" duration-ms="3002" started-at="2019-09-28T12:36:55 EDT" finished-at="2019-09-28T12:36:58 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanUp -->
